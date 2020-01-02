@@ -1,5 +1,8 @@
 # vue-heroku
 
+### Try Deployed version here: https://obscure-badlands-17467.herokuapp.com/
+
+
 ## Project setup
 ```
 npm install
